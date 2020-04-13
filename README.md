@@ -1,7 +1,7 @@
 # :tiger2: Panther
 Technical website of Panther
 
-* Main website on [rnext.it/panther]
+* Main website: [rnext.it/panther]
 * Technical page: [rpanther.github.io]
 
 **Panther** is an outdoor tracked robot, with a [ZED2] stereocamera and an NVIDIA Jetson [AGX Xavier], this robot can interact with all objects around it.
