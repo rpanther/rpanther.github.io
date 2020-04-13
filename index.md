@@ -1,4 +1,4 @@
-## :tiger2: Panther - Technical page
+## Panther - Technical page
 
 **P**owerful **A**utonomous e**NT**ity **H**igh-**E**nd **R**obot
 
