@@ -3,6 +3,7 @@
 Joystick Logitech F710 configuration
 
 ![F710-Top](images/joystick/F710-top.jpg)
+![F710-Top](images/joystick/F710-rear.jpg)
 
 Buttons (Reference number with ros joy topic):
 
@@ -19,3 +20,11 @@ Buttons (Reference number with ros joy topic):
  
  - [8] **LJ**
  - [9] **RJ**
+
+All Configuration are in:
+* [panther_control] [config/teleop.yaml](https://github.com/rpanther/panther/blob/master/panther_control/config/teleop.yaml)
+* [panther_joystick] [config/joystick.yaml](https://github.com/rpanther/panther_hardware/blob/master/panther_joystick/config/joystick.yaml)
+
+ 
+ [panther_control]: https://github.com/rpanther/panther/tree/master/panther_control
+ [panther_joystick]: https://github.com/rpanther/panther_hardware/tree/master/panther_joystick
