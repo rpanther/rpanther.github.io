@@ -5,6 +5,10 @@ Joystick Logitech F710 configuration
 ![F710-Top](images/joystick/F710-top.jpg)
 ![F710-Top](images/joystick/F710-rear.jpg)
 
+### Please Note: **F710** works on ROS in **Xinput** (Select letter X)
+
+## Configuration
+
 Buttons (Reference number with ros joy topic):
 
  - [0] **A**
