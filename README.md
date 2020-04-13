@@ -1,5 +1,4 @@
 # :tiger2: Panther
-----------
 Technical website of Panther
 
 * Main website on [rnext.it/panther]
