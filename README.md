@@ -1,4 +1,4 @@
-# :tiger2: [rpanther.github.io]
+# :tiger2: Panther
 ----------
 Technical website of Panther
 
