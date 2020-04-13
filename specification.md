@@ -4,10 +4,10 @@
 - Ground clearance: 7cm
 - Weight: 11 Kg
 - Battery
-  - 6S1P LiPo battery 22.2V - 5Ah
+  * 6S1P LiPo battery 22.2V - 5Ah
 - Materials
-  - Makerbeam’s frame
-  - Cover and Tracks in transparent PVC
+  * Makerbeam’s frame
+  * Cover and Tracks in transparent PVC
 
 ## Electronics
 
