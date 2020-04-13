@@ -11,19 +11,19 @@ Joystick Logitech F710 configuration
 
 Buttons (Reference number with ros joy topic):
 
- - [0] **A**
- - [1] **B**
- - [2] **X**
- - [3] **Y**
+ - [0] **A**     - Enable drive
+ - [1] **B**     - Enable **turbo** drive
+ - [2] **X**     - 
+ - [3] **Y**     - Emergency button (Stop roboteq board)
  
- - [4] **LB**
- - [5] **RB**
+ - [4] **LB**    - Start/Stop song
+ - [5] **RB**    - Next song
  
- - [6] **Back**
- - [7] **Start**
+ - [6] **Back**  - Speech button
+ - [7] **Start** - Enable/Disable Audio
  
- - [8] **LJ**
- - [9] **RJ**
+ - [8] **LJ**    - 
+ - [9] **RJ**    - 
 
 All Configuration are in:
 * [panther_control] [config/teleop.yaml](https://github.com/rpanther/panther/blob/master/panther_control/config/teleop.yaml)
