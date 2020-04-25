@@ -6,12 +6,14 @@ Panther is an outdoor tracked robot, with a [ZED2] stereocamera and an NVIDIA Je
 
 This robot can climbs little rocks and little bumps. it is heavy with 11kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.
 
-Read more about [Panther]
+Pages:
+ - [Panther](http://rnext.it/panther/)
+ - [Social](social.md)
 
-Menu:
+Robot:
  - [Specification](specification.md)
  - [joystick](joystick.md)
 
-[Panther]: http://rnext.it/panther/
+
 [AGX Xavier]: https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit
 [ZED2]: https://www.stereolabs.com/zed-2/
