@@ -1,5 +1,7 @@
 main:
   - title: ":tiger2: About"
     url: /about/
-  - title: ":wrench: Design"
+  - title: "📐  Design"
     url: /design/
+  - title: ":wrench: Build"
+    url: /build/
