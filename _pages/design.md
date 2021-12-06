@@ -23,17 +23,17 @@ first-cad:
     alt: "Panther yellow tank shape"
     title: "Panther yellow tank shape"
 sketch-first:
-  - url: /assets/images/design/01-sketch-panther.jpg
-    image_path: /assets/images/design/01-sketch-panther.jpg
+  - url: /assets/images/design/sketch/01-sketch-panther.jpg
+    image_path: /assets/images/design/sketch/01-sketch-panther.jpg
     alt: "First Panther sketch"
     title: "First Panther sketch"
-  - url: /assets/images/design/02-sketch-panther.jpg
-    image_path: /assets/images/design/02-sketch-panther.jpg
+  - url: /assets/images/design/sketch/02-sketch-panther.jpg
+    image_path: /assets/images/design/sketch/02-sketch-panther.jpg
     alt: "Rounding Panther"
     title: "Rounding Panther"
 sketch-second:
-  - url: /assets/images/design/03-sketch-panther.jpg
-    image_path: /assets/images/design/03-sketch-panther.jpg
+  - url: /assets/images/design/sketch/03-sketch-panther.jpg
+    image_path: /assets/images/design/sketch/03-sketch-panther.jpg
     alt: "Panther shape"
     title: "Panther shape"
 ---
@@ -57,8 +57,10 @@ the shape was not enough and I start to rounding and shaping making a look more 
 {% include gallery id="sketch-second" caption="Panther final look" %}
 # Panther 3D CAD
 
-
+From sketch to a real 3D model, the step is huge and many tests I made many experiments to be possible realize a real track using in particular plexiglass and not aluminum like all robots with a track and size like Panther. 
 
 ## Track design
 
+
+## Upgrades on Panther
 
