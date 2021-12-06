@@ -1,19 +1,17 @@
-## Panther - Technical page
+---
+layout: splash
+excerpt: "Designed & made <br/>by [Raffaello Bonghi](https://rnext.it)"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/intro.jpg
+  actions:
+  - label: ":sparkling_heart: Sponsor"
+    url: "https://github.com/sponsors/rbonghi"
+intro: 
+  - excerpt: ':tiger2: **Panther** is an outdoor tracked robot, with a [ZED2](https://www.stereolabs.com/zed-2/) stereocamera and an NVIDIA Jetson [AGX Xavier](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit), this robot can interact with all objects around it.'
+---
 
-**P**owerful **A**utonomous e**NT**ity **H**igh-**E**nd **R**obot
+{% include feature_row id="intro" type="center" %}
 
-Panther is an outdoor tracked robot, with a [ZED2] stereocamera and an NVIDIA Jetson [AGX Xavier], this robot can interact with all objects around it.
-
-This robot can climbs little rocks and little bumps. it is heavy with 11kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.
-
-Pages:
- - [Panther](http://rnext.it/panther/)
- - [Social](social.md)
-
-Robot:
- - [Specification](specification.md)
- - [joystick](joystick.md)
-
-
-[AGX Xavier]: https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit
-[ZED2]: https://www.stereolabs.com/zed-2/
+{% include feature_row %}

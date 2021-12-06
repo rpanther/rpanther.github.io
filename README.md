@@ -1,12 +1,6 @@
-# :tiger2: Panther
-Technical website of Panther
-
-* Main website: [rnext.it/panther]
-* Technical page: [rpanther.github.io]
+# :tiger2: Panther - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 **Panther** is an outdoor tracked robot, with a [ZED2] stereocamera and an NVIDIA Jetson [AGX Xavier], this robot can interact with all objects around it.
-
-This robot can climbs little rocks and little bumps. it is heavy with 11kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.
 
 [rpanther.github.io]: https://rpanther.github.io
 [rnext.it/panther]: https://rnext.it/panther
@@ -21,3 +15,42 @@ This robot can climbs little rocks and little bumps. it is heavy with 11kg and w
 [ROS]: http://www.ros.org/
 [DCDC-USB]: https://www.mini-box.com/DCDC-USB?sc=8&category=981
 [IMU]: http://wiki.ros.org/razor_imu_9dof
+
+## Run locally
+
+```
+bundle exec jekyll serve --incremental --livereload
+```
+
+## Install Ruby
+
+https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
+* Using rbenv
+* version 2.7.3
+
+```
+bundle
+```
+
+### Theme reference
+
+* https://mmistakes.github.io/minimal-mistakes/
+* https://github.com/mmistakes/mm-github-pages-starter
+* https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
+* https://ptc-it.de/add-favicon-to-mm-jekyll-site/
+* https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
+* Make a table from csv file https://jekyllrb.com/tutorials/csv-to-table/
+
+# Other
+* https://emojipedia.org/
+* https://realfavicongenerator.net/
+* https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer
+
+
+# License
+
+This project is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

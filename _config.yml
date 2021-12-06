@@ -1,3 +1,111 @@
-theme: jekyll-theme-minimal
-title: Panther technical page
-description: Tecnical information, specification and configuration
+minimal_mistakes_skin: "dark"
+search: true
+
+title: Panther
+description: Panther is an outdoor tracked robot
+name: "Raffaello Bonghi"
+
+repository: "rpanther/rpanther.github.io"
+
+twitter_username: raffaello86
+github_username: rbonghi
+
+twitter:
+  username: "raffaello86"
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
+  - /assets/js/copyCode.js
+
+author:
+  name        : "Raffaello Bonghi"
+  bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
+  avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rnext.it"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
+
+# Site Footer
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rnext.it"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
+
+teaser: /assets/images/intro.jpg
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-92957365-3"
+    anonymize_ip: false # default
