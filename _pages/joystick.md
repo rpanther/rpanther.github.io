@@ -1,4 +1,8 @@
-# Joystick
+---
+title: "Joystick"
+permalink: /joystick/
+classes: wide
+---
 
 Joystick Logitech F710 configuration
 

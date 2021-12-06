@@ -2,7 +2,7 @@ minimal_mistakes_skin: "dark"
 search: true
 
 title: Panther
-description: Panther is an outdoor tracked robot
+subtitle: "Powerful Autonomous eNTity High-End Robot"
 name: "Raffaello Bonghi"
 
 repository: "rpanther/rpanther.github.io"

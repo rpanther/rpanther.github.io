@@ -4,6 +4,7 @@ permalink: /about/
 classes: wide
 ---
 
+**P**owerful **A**utonomous e**NT**ity **H**igh-**E**nd **R**obot
 
 **Panther** is an outdoor tracked robot, with a [ZED2] stereocamera and an NVIDIA Jetson [AGX Xavier], this robot can interact with all objects around it.
 

@@ -1,4 +1,8 @@
-## Social
+---
+title: "Press"
+permalink: /press/
+classes: wide
+---
 
 List of pages where you can find **Panther**
 
@@ -20,10 +24,4 @@ Other:
 Challenges:
  - [Challenge rocket](https://challengerocket.com/nvidia/works/panther-422d61)
  - [Maker Faire Rome](https://2019.makerfairerome.eu/en/exhibitors/?ids=1039)
-
-My personal social pages:
- - [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/)
- - [Twitter](https://twitter.com/raffaello86)
- - [Instagram](https://www.instagram.com/raffaello86/)
- - [Facebook](https://www.facebook.com/raffaello.bonghi)
  
