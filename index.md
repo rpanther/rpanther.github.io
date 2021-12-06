@@ -25,11 +25,11 @@ feature_row:
     url: "/design/"
     btn_label: "How is designed"
     btn_class: "btn--warning"
-  - image_path: /assets/images/build/panther-build.jpg
-    alt: "build"
-    title: "🔧 Build"
-    excerpt: "How I build Panther, all pictures and details about this robot"
-    url: "/build/"
+  - image_path: /assets/images/assembly/panther-assembly.jpg
+    alt: "assembly"
+    title: "🔧 Assembly"
+    excerpt: "How I assembled Panther, all pictures and details about this robot"
+    url: "/assembly/"
     btn_label: "how is build"
     btn_class: "btn--primary"
 footer:

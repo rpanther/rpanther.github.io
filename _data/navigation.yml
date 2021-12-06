@@ -3,5 +3,5 @@ main:
     url: /about/
   - title: "📐  Design"
     url: /design/
-  - title: ":wrench: Build"
-    url: /build/
+  - title: ":wrench: Assembly"
+    url: /assembly/
