@@ -1,0 +1,5 @@
+main:
+  - title: ":tiger2: About"
+    url: /about/
+  - title: ":wrench: Design"
+    url: /design/
