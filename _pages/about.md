@@ -9,7 +9,40 @@ classes: wide
 
 This robot can climbs little rocks and little bumps. it is heavy with 11kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.
 
-[rnext.it/panther]: https://rnext.it/panther
+
+# Specification
+
+- Dimensions: 42 x 40 x 30 cm
+- Ground clearance: 7cm
+- Weight: 11 Kg
+- Battery
+  * 6S1P LiPo battery 22.2V - 5Ah
+- Materials
+  * Makerbeam’s frame
+  * Cover and Tracks in transparent PVC
+
+## Electronics
+
+- NVIDIA Jetson [AGX Xavier]
+- Roboteq [SDC2130]
+- [DCDC-USB]
+- OLED strips
+
+## Sensors
+
+- Stereolabs [ZED2]
+- RPLIDAR [A2]
+- Razor IMU [IMU]
+- 2x encoder 1024 CPR
+- 2 speakers
+- 2 microphones
+
+## Motors
+- [Micromotors] 2x [P205.24.16] - 52.8W - 150Ncm
+  * Motor ratio: 16
+  * Gear: 16
+  * Sprocket: 24
+
 [AGX Xavier]: https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit
 [TX2]: http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html
 [Micromotors]: http://www.micromotors.eu/micro_motors_eng.html
