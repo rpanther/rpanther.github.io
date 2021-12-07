@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/about.jpg
     alt: "about"
     title: "ℹ️ About"
-    excerpt: "Panther born in 2016 with the idea to explore huge enviroments outdoor"
+    excerpt: "Panther born in 2016 with the idea to explore huge environments outdoor"
     url: "/about/"
     btn_label: "About Panther"
     btn_class: "btn--success"
@@ -25,24 +25,30 @@ feature_row:
     url: "/design/"
     btn_label: "How is designed"
     btn_class: "btn--warning"
-  - image_path: /assets/images/assembly/panther-assembly.jpg
-    alt: "assembly"
-    title: "🔧 Assembly"
-    excerpt: "How I assembled Panther, all pictures and details about this robot"
-    url: "/assembly/"
-    btn_label: "how is build"
+  - image_path: /assets/images/navigation/Detail-Map-Panther.jpg
+    alt: "navigation"
+    title: "📍 Navigation"
+    excerpt: "Navigation and mapping, how Panther recognize the world"
+    url: "/map/"
+    btn_label: "read more"
     btn_class: "btn--primary"
-footer:
+github:
   - excerpt: "Explore Panther GitHub. Panther is currently running on ROS melodic"
     url: "https://github.com/rpanther"
     btn_label: "GitHub"
     btn_class: "btn--success"
+footer: 
+  - excerpt: ':tiger2: **Panther** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="footer" type="center" %}
+{% include feature_row id="github" type="center" %}
 
 {% include video id="IjHqjM4LzU4" provider="youtube" %}
+
+----------
+
+{% include feature_row id="footer" type="center" %}
