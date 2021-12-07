@@ -7,3 +7,25 @@ main:
     url: /assembly/
   - title: "📰 Press"
     url: /press/
+
+assembly:
+  - title: Assembly
+    children:
+      - title: "Tracks"
+        url: /assembly/tracks
+      - title: "Core"
+        url: /assembly/core
+      - title: "Covers"
+        url: /assembly/covers
+      - title: "Dampers"
+        url: /assembly/dampers
+  - title: Upgrades
+    children:
+      - title: "1. Tracks & power"
+        url: /upgrade/tracks
+      - title: "2. New motors"
+        url: /upgrade/motors
+      - title: "3. Motor control"
+        url: /upgrade/control
+      - title: "4. NVIDIA Jetson AGX Xavier"
+        url: /upgrade/jetson

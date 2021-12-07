@@ -80,6 +80,11 @@ footer:
 
 teaser: /assets/images/intro.jpg
 
+collections:
+  assembly:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _pages
   - scope:
@@ -88,6 +93,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # assembly
+  - scope:
+      path: "_assembly"
+      type: assembly
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      read_time: true
+      sidebar:
+        nav: "assembly"
 
 # Reading Files
 include:
