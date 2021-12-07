@@ -9,6 +9,9 @@ toc_sticky: true
 
 How build a 3D map? Simple, Panther use a stereo camera and sensors to localize itself on the space and detecting and recording.
 
+**All this maps are made in 2017**
+{: .text-center}
+
 # 3D map
 
 In this page a full example of Panther making a 3D map. The output is filtered with [Meshlab](https://www.meshlab.net/) and the map is load on [Sketchfab](https://sketchfab.com/raffaello86).
