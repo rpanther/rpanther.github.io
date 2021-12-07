@@ -81,7 +81,7 @@ footer:
 teaser: /assets/images/intro.jpg
 
 collections:
-  assembly:
+  project:
     output: true
     permalink: /:collection/:path/
 
@@ -93,17 +93,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # assembly
+  # project
   - scope:
-      path: "_assembly"
-      type: assembly
+      path: "_project"
+      type: project
     values:
       layout: single
       author_profile: false
       share: false
       read_time: true
       sidebar:
-        nav: "assembly"
+        nav: "project"
 
 # Reading Files
 include:

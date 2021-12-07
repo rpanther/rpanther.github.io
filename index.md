@@ -44,3 +44,5 @@ footer:
 {% include feature_row %}
 
 {% include feature_row id="footer" type="center" %}
+
+{% include video id="IjHqjM4LzU4" provider="youtube" %}

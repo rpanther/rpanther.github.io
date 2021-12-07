@@ -2,9 +2,6 @@
 title: "Assembly"
 permalink: /assembly/
 classes: wide
-author_profile: false
-sidebar:
-  - nav: "assembly"
 ---
 
 Panther is a long evolution of many steps, starting from the main idea with different upgrades. In this page I collected all main steps and upgrade that I made it.

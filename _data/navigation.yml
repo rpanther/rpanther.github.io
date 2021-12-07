@@ -1,14 +1,20 @@
 main:
   - title: ":tiger2: About"
     url: /about/
-  - title: "📐  Design"
+  - title: "📐 Design"
     url: /design/
-  - title: ":wrench: Assembly"
-    url: /assembly/
+  - title: "📍 Navigation"
+    url: /map/
   - title: "📰 Press"
     url: /press/
 
-assembly:
+project:
+  - title: Idea & Project
+    children:
+      - title: "Design"
+        url: /design/
+      - title: "Assembly"
+        url: /assembly/
   - title: Assembly
     children:
       - title: "Tracks"
