@@ -86,8 +86,8 @@ track-panther:
     image_path: /assets/images/design/track/04-track-panther.jpg
     alt: "Panther track design"
     title: "Panther track design"
-  - url: /assets/images/design/track/05-track-panther.jpg
-    image_path: /assets/images/design/track/05-track-panther.jpg
+  - url: /assets/images/design/track/02-track-panther.jpg
+    image_path: /assets/images/design/track/02-track-panther.jpg
     alt: "Panther track design"
     title: "Panther track design"
   - url: /assets/images/design/track/06-track-panther.jpg
@@ -162,7 +162,7 @@ Finally after a long work, the real track was appearing on my CAD, and with all 
 
 Thi is the final cad of the Panther track
 
-{% include figure image_path="/assets/images/design/track/02-track-panther.jpg" alt="Panther track final look" caption="Panther track final look" %}
+{% include figure image_path="/assets/images/design/track/05-track-panther.jpg" alt="Panther track final look" caption="Panther track final look" %}
 ## Upgrades on Panther
 
 In this picture the last update on Panther, adding a lidar and reshaping the robot with new motors
