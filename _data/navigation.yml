@@ -23,15 +23,15 @@ project:
         url: /assembly/core
       - title: "Covers"
         url: /assembly/covers
-      - title: "Dampers"
-        url: /assembly/dampers
   - title: Upgrades
     children:
-      - title: "1. Tracks & power"
+      - title: "1. Dampers"
+        url: /upgrade/dampers
+      - title: "2. Tracks & power"
         url: /upgrade/tracks
-      - title: "2. New motors"
+      - title: "3. New motors"
         url: /upgrade/motors
-      - title: "3. Motor control"
+      - title: "4. Motor control"
         url: /upgrade/control
-      - title: "4. NVIDIA Jetson AGX Xavier"
+      - title: "5. NVIDIA Jetson AGX Xavier"
         url: /upgrade/jetson

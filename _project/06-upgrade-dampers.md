@@ -1,4 +1,4 @@
 ---
 title: "Assembly dampers"
-permalink: /assembly/dampers
+permalink: /upgrade/dampers
 ---
