@@ -84,6 +84,9 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
+  control:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
@@ -100,10 +103,21 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: false
+      share: true
       read_time: true
       sidebar:
         nav: "project"
+  # control
+  - scope:
+      path: "_control"
+      type: control
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: "control"
 
 # Reading Files
 include:

@@ -6,8 +6,8 @@ classes: wide
 
 Joystick Logitech F710 configuration
 
-![F710-Top](images/joystick/F710-top.jpg)
-![F710-Top](images/joystick/F710-rear.jpg)
+![F710-Top](/assets/images/joystick/F710-top.jpg)
+![F710-Top](/assets/images/joystick/F710-rear.jpg)
 
 ### Please Note: **F710** works on ROS in **Xinput** (Select letter X)
 

@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "📐 Design"
     url: /design/
-  - title: "📍 Navigation"
-    url: /map/
+  - title: "⚙️ Control"
+    url: /control/
   - title: "📰 Press"
     url: /press/
 
@@ -35,3 +35,17 @@ project:
         url: /upgrade/control
       - title: "5. NVIDIA Jetson AGX Xavier"
         url: /upgrade/jetson
+
+control:
+  - title: Control
+    children:
+      - title: "Control"
+        url: /control/
+      - title: "Joystick"
+        url: /joystick/
+  - title: Mapping
+    children:
+      - title: "3D mapping"
+        url: /map/
+      - title: "Cartographer"
+        url: /cartographer/
