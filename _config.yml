@@ -16,6 +16,9 @@ teaser: /assets/images/intro.jpg
 search: true
 search_full_content: true
 
+# SEO Related
+google_site_verification: "HzifDWPrlsejyq7zKJkACAiypLC66t7z5sfJqDkkOf8"
+
 twitter:
   username: &twitter "raffaello86"
 
