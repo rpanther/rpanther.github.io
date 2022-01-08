@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "📐 Design"
     url: /design/
-  - title: "⚙️ Control"
-    url: /control/
+  - title: "⚙️ Mapping"
+    url: /map/
   - title: "📰 Press"
     url: /press/
 
