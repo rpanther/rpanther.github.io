@@ -1,6 +1,7 @@
 ---
 layout: splash
-excerpt: "Designed & made <br/>by [Raffaello Bonghi](https://rnext.it)"
+excerpt: "**Panther** is an outdoor tracked robot based in ROS1 melodic. <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
+tagline: "An outdoor tracked robot based in ROS1 melodic.<br/> <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

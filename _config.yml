@@ -16,6 +16,8 @@ teaser: /assets/images/intro.jpg
 search: true
 search_full_content: true
 
+github: [metadata]
+
 # SEO Related
 google_site_verification: "HzifDWPrlsejyq7zKJkACAiypLC66t7z5sfJqDkkOf8"
 
@@ -89,10 +91,12 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ads.txt
 exclude:
   - README.md
   - LICENSE
   - Gemfile
+  - vendor
 
 # Build settings
 markdown: kramdown
@@ -110,6 +114,17 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -154,6 +169,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -163,6 +179,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 category_archive:
   type: liquid
@@ -170,7 +187,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-after_footer_scripts :
-  - /assets/js/cookie-consent.js
-  

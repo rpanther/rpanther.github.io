@@ -5,8 +5,8 @@ main:
     url: /design/
   - title: "⚙️ Mapping"
     url: /map/
-  - title: "📰 Press"
-    url: /press/
+  - title: "📰 Posts"
+    url: /posts/
 
 project:
   - title: Idea & Project
