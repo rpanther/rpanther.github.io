@@ -93,6 +93,8 @@ final:
 
 {% include gallery id="printed-parts" caption="3D printed parts" %}
 
+{% include video id="AvpyDm7A0_w" provider="youtube" %}
+
 ## Motor control
 
 {% include gallery id="motor-control" caption="Montor control board" %}
