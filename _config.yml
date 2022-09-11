@@ -33,7 +33,7 @@ analytics:
   provider: "google"
   google:
     tracking_id: "UA-92957365-3"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
 
 author:
   name        : "Raffaello Bonghi"
