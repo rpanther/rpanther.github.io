@@ -30,9 +30,9 @@ social:
     - "https://instagram.com/robo.panther"
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-92957365-3"
+    tracking_id: "UG-Y2X9YJQ5KN"
     anonymize_ip: true # default
 
 author:
