@@ -32,7 +32,7 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UG-Y2X9YJQ5KN"
+    tracking_id: "G-Y2X9YJQ5KN"
     anonymize_ip: true # default
 
 author:
